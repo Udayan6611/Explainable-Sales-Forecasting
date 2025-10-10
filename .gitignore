@@ -4,3 +4,10 @@ __pycache__/
 *.pyc
 # checkpoints
 .ipynb_checkpoints
+# Large data files
+data/train.csv
+data/test.csv
+data/holidays_events.csv
+data/stores.csv
+data/transactions.csv
+data/sample_submission.csv
