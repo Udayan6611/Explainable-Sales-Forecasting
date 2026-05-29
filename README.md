@@ -8,8 +8,6 @@ This repository documents the creation of a complete sales forecasting system, d
 
 **Live Application URL:** [**https://sales-forecaster-app-466236414757.us-central1.run.app/**]
 
-![Demo GIF of the Streamlit Application](https://placehold.co/800x450/2d3748/ffffff?text=Add+a+GIF+of+your+live+app+here)
-
 ---
 
 ### The Business Problem
